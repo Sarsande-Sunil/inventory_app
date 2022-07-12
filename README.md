@@ -1,7 +1,16 @@
 # inventory_app
-inevntory
+inevntory managment_system 
 startting thisp project 
 </br>
 npm start 
 </br>
 folder_structure mvc framework
+features 
+</br>
+1 Creating Product
+</br>
+2 Get all Product
+</br>
+3 Delete Product
+</br>
+4 Update Product
